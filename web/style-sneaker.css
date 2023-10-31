@@ -60,42 +60,6 @@ header a {
     margin-right: auto;
 }
 
-h2 {
-    font-family: "Anonymous Pro";
-    color:  #121723;
-    font-weight: 500;
-    font-size: 48;
-}
-
-.sneaker {
-    display: inline-block;
-    background-color: #FFFFFF;
-    align-items: center;
-    max-width: 371.5px;
-    border-radius: 12px;
-    margin: 15 15 15 0;
-    vertical-align: top;
-}
-
-h3 {
-    font-family: "Anonymous Pro";
-    font-size: 26px;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-bottom: 0px;
-    color:  #121723;
-}
-
-p {
-    font-family: "Anonymous Pro", sans-serif;
-    font-size: 20px;
-    word-wrap: break-word;
-    margin-left: 25px;
-    margin-right: 25px;
-    font-weight: normal;
-    color:  #121723;
-}
-
 .footer {
     height: max-content;
     background: #121723;
