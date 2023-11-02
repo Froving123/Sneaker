@@ -78,7 +78,7 @@ header a {
 }
 
 h3{
-    margin: 30px 15px 0px 15px;
+    margin: 40px 15px 0px 15px;
     font-size: 31px;
     font-weight: bold;
 }
@@ -103,8 +103,9 @@ h3{
     display: flex;
     justify-content: space-around;
     height: max-content;
-    padding: 15px 5px;
-    width: 100%;
+    padding: 25px 5px;
+    border: 2px solid black;
+    width: max-content;
 }
 
 .footer {
@@ -146,4 +147,5 @@ h4 {
 
 .a-sneaker{
     text-decoration: none;
+    width: max-content;
 }
