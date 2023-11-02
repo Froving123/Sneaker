@@ -60,54 +60,51 @@ header a {
     margin-top: 13px;
     height: 600px;
     background-color: #eae4bc;
-}
-
-.l-div{
-    
-    margin: 25px 0px;
+    align-items: center;
 }
 
 .all-sneaker{
     height: 550px;
     border: 1px solid rgb(125, 124, 124);
+    border-radius: 5px;
 }
 
 .r-div{
-    width: 450px;
-    height: 500px;
-    margin: 50px 0px;
+    width: 480px;
+    height:max-content;
     background-color: #FFFFFF;
-    border: 1px solid black;
-    border-radius: 2px;
-    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
 }
 
 h3{
+    margin: 30px 15px 0px 15px;
     font-size: 31px;
     font-weight: bold;
 }
 
-h5{
-    margin-top: 55px;
-    background-color: black;
+.price-p{
     color: #FFFFFF;
     font-size: 26px;
     font-family: Arial, sans-serif;
-    padding: 15px 15px;
+    text-align: center;
+    margin: 0px;
 }
 
 .description{
-    margin: 60px 20px;
+    margin: 60px 35px;
     font-family: Arial, sans-serif;
     line-height: 30px;
     font-size: 20;
 }
 
 .price{
-    height: 50px;
+    background-color: black;
     display: flex;
     justify-content: space-around;
-   
+    height: max-content;
+    padding: 15px 5px;
+    width: 100%;
 }
 
 .footer {
