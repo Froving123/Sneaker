@@ -53,14 +53,15 @@ header a {
     color: #000000;
 }
 
-.content{
+.t-div{
+    padding: 40px;
     display: flex;
-    justify-content: space-between;
     justify-content: space-around;
     margin-top: 13px;
     height: 600px;
     background-color: #eae4bc;
     align-items: center;
+    height: max-content;
 }
 
 .all-sneaker{
@@ -73,7 +74,7 @@ header a {
     width: 480px;
     height:max-content;
     background-color: #FFFFFF;
-    border-radius: 5px;
+    border-radius: 8px;
     text-align: center;
 }
 
@@ -104,8 +105,18 @@ h3{
     justify-content: space-around;
     height: max-content;
     padding: 25px 5px;
-    border: 2px solid black;
 }
+
+.price:hover {
+    background-color: #303030;
+}
+
+.full-description {
+    text-align: justify;
+    margin-left: 172px;
+    padding-right: 200px;
+    font: 24px Arial, Helvetica, sans-serif;
+  }
 
 .footer {
     height: max-content;
