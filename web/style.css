@@ -17,7 +17,6 @@ body {
     font-family: "Anonymous Pro";
     display: grid;
     grid-template-rows: 88px 1fr 72px;
-    min-height: 100vh;
 }
 
 .header {
